@@ -4,3 +4,5 @@ text
 start
 second
 final
+
+checkout test
