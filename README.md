@@ -15,4 +15,5 @@ van mod
 mod by vim
 change by idea
 
+merge by idea
 merge by vim
