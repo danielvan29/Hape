@@ -7,3 +7,4 @@ echo 8888
 cd /download/
 cba=3
 abc=1
+ddd=8
