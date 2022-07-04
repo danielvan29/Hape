@@ -28,23 +28,23 @@
         <welcome-file>login.jsp</welcome-file>
     </welcome-file-list>
 
-    <servlet>
-        <servlet-name>LoginServlet</servlet-name>
-        <servlet-class>com.van.servlet.user.LoginServlet</servlet-class>
-    </servlet>
-    <servlet-mapping>
-        <servlet-name>LoginServlet</servlet-name>
-        <url-pattern>/login.do</url-pattern>
-    </servlet-mapping>
+    <!--<servlet>-->
+    <!--    <servlet-name>LoginServlet</servlet-name>-->
+    <!--    <servlet-class>com.van.servlet.user.LoginServlet</servlet-class>-->
+    <!--</servlet>-->
+    <!--<servlet-mapping>-->
+    <!--    <servlet-name>LoginServlet</servlet-name>-->
+    <!--    <url-pattern>/login.do</url-pattern>-->
+    <!--</servlet-mapping>-->
 
-    <servlet>
-        <servlet-name>LogoutServlet</servlet-name>
-        <servlet-class>com.van.servlet.user.LogoutServlet</servlet-class>
-    </servlet>
-    <servlet-mapping>
-        <servlet-name>LogoutServlet</servlet-name>
-        <url-pattern>/jsp/logout.do</url-pattern>
-    </servlet-mapping>
+    <!--<servlet>-->
+    <!--    <servlet-name>LogoutServlet</servlet-name>-->
+    <!--    <servlet-class>com.van.servlet.user.LogoutServlet</servlet-class>-->
+    <!--</servlet>-->
+    <!--<servlet-mapping>-->
+    <!--    <servlet-name>LogoutServlet</servlet-name>-->
+    <!--    <url-pattern>/jsp/logout.do</url-pattern>-->
+    <!--</servlet-mapping>-->
 
     <!--<servlet>-->
     <!--    <servlet-name>UserServlet</servlet-name>-->
