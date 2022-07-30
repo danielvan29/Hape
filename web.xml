@@ -5,14 +5,14 @@
          version="4.0">
 
     <!--字符过滤-->
-    <filter>
-        <filter-name>CharacterEncoding</filter-name>
-        <filter-class>com.van.filter.CharacterEncodingFilter</filter-class>
-    </filter>
-    <filter-mapping>
-        <filter-name>CharacterEncoding</filter-name>
-        <url-pattern>/*</url-pattern>
-    </filter-mapping>
+    <!--<filter>-->
+    <!--    <filter-name>CharacterEncoding</filter-name>-->
+    <!--    <filter-class>com.van.filter.CharacterEncodingFilter</filter-class>-->
+    <!--</filter>-->
+    <!--<filter-mapping>-->
+    <!--    <filter-name>CharacterEncoding</filter-name>-->
+    <!--    <url-pattern>/*</url-pattern>-->
+    <!--</filter-mapping>-->
 
     <!--<filter>-->
     <!--    <filter-name>SysFitler</filter-name>-->
