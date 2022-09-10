@@ -8,3 +8,5 @@ nmap <S-SPACE> i<SPACE><Esc>
 
 let mapleader="["
 nmap <leader>q :q<CR>
+
+"
